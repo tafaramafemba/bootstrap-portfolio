@@ -68,3 +68,9 @@ h1 {
 .\-mt-5 {
   margin-top: -58px;
 }
+
+.project-card {
+  background-image: url(./assets/png/art\ printing.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
