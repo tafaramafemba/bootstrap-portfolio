@@ -1,6 +1,49 @@
+* {
+  box-sizing: border-box !important;
+}
+
 .font-inter {
 font-family: 'Inter', sans-serif;
 }
+
 .font-crete-round {
   font-family: 'Crete Round', serif;
+}
+
+.bg-light-dark {
+  background-color: #3E3C3C;
+}
+
+.bg-dark {
+  background-color: #1C1A19 !important;
+}
+
+header {
+  background-image: url(./assets/png/header-illustration.png);
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: contain;
+}
+
+.text-orange {
+  color: #F55800;
+}
+
+.text-light-grey {
+  color: #F4F5F7;
+} 
+
+h1 {
+  font-size: 72px;
+  line-height: 81px;
+}
+
+.header-text {
+  font-size: 20px;
+  line-height: 32px;
+}
+
+.social-icons {
+  top: 351px;
+  left: 40px;
 }
